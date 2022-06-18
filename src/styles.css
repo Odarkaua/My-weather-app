@@ -1,0 +1,96 @@
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+img {
+  display: block;
+  margin: 0 0 0 100px;
+}
+
+.container {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #e4f1fe;
+  border-radius: 10px;
+}
+
+.app-header {
+  font-size: 54px;
+  font-weight: 700;
+}
+
+.input-city {
+  padding: 20px 0px;
+  display: inline-block;
+}
+
+.weather-now {
+  display: block;
+  margin: 0 0 0 90px;
+}
+
+.weather-now-card-temperature {
+  display: block;
+  margin: 30px 0 0 90px;
+}
+
+.city {
+  font-size: 48px;
+}
+
+.row {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.weather-now-card {
+  width: 500px;
+  height: 270px;
+}
+
+.weather-now-card-temperature {
+  width: 300px;
+  height: 200px;
+}
+
+.card {
+  background-color: #8dc6ff;
+}
+
+.temperature-big {
+  font-size: 58px;
+  font-weight: 500;
+}
+.temperature {
+  font-size: 38px;
+  font-weight: 500;
+  color: #34495e;
+}
+
+.sighns-big {
+  font-size: 68px;
+}
+
+.sighns {
+  font-size: 48px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #8dc6ff !important;
+  border-color: #34495e;
+}
